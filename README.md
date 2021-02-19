@@ -1,9 +1,10 @@
-# Introduction à Docker
+# Conteneurisation M2 TP01
 
 ## Initiation à la cli
 
+* commandes
 ```bash
-(conteneurisation) --- conteneurisation/tp01 » docker run -it alpine:3.10 sh                                                                                                                                                             
+(conteneurisation) --- conteneurisation/tp01 » docker run -it alpine:3.10 sh 
 / # ls
 bin    dev    etc    home   lib    media  mnt    opt    proc   root   run    sbin   srv    sys    tmp    usr    var
 / # exit
@@ -29,4 +30,5 @@ Untagged: alpine@sha256:f0e9534a598e501320957059cb2a23774b4d4072e37c7b2cf7e95b24
 (conteneurisation) --- conteneurisation/tp01 »
 ```
 
+* proof
 ![proof](commandes.png)
